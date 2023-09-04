@@ -1,0 +1,17 @@
+.title {
+    color: black;
+}
+
+#logo {
+    width: auto;
+    height: 400px;
+}
+
+.img {
+    width: 400px;
+    height: auto;
+}
+
+#theme {
+    background-color: bisque;
+}
